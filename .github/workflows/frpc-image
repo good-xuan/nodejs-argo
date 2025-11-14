@@ -1,4 +1,4 @@
-name: frpc Image
+name: frpc-image
 
 on:
   push:
